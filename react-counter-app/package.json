@@ -1,7 +1,14 @@
 {
   "name": "react-counter-app",
+  "homepage": "https://chsanderson.github.io/React-Counter-App/react-counter-app/",
+  "version":"0.1.0", 
+  "packageManager": "yarn@3.2.4",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  },
   "version": "0.1.0",
   "private": true,
+  "packageManager": "yarn@3.2.4",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
@@ -36,11 +43,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-    "homepage":{
-      "name": "React-Counter-App",
-      "homepage": "https://chsanderson.github.io/React-Counter-App/react-counter-app/", <----
-      "version":"0.1.0",
-      /....
-    }
+  }
 }
