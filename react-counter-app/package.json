@@ -1,6 +1,6 @@
 {
   "name": "react-counter-app",
-  "homepage": "https://chsanderson.github.io/React-Counter-App/react-counter-app/",
+  "homepage": "https://chsanderson.github.io/React-Counter-App/",
   "version":"0.1.0", 
   "packageManager": "yarn@3.2.4",
   "dependencies": {
