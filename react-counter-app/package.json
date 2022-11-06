@@ -38,8 +38,8 @@
     ]
   },
     "homepage":{
-      update package.json"name": "React-Counter-App",
-      "homepage": "https://chsanderson.github.io/React-Counter-App/", <----
+      "name": "React-Counter-App",
+      "homepage": "https://chsanderson.github.io/React-Counter-App/react-counter-app/", <----
       "version":"0.1.0",
       /....
     }
